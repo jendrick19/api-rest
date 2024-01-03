@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "title": "Mi primera API REST",
+      "subtitle": "NodeJS",
+      "body": "Enseñando a crear una API REST con NodeJS",
+      "date": "2024-01-03",
+      "image": "https://www.loginradius.com/blog/static/6ee159acf6c294342ec04f86aede5d14/701ee/coverImage.jpg",
+      "id": 1,
+      "userId": 1
+    },
+    {
+      "title": "Aprendiendo JS",
+      "subtitle": "Javascript",
+      "body": "Enseñando a crear una aplicación en Javascript",
+      "date": "2024-01-03",
+      "image": "https://miro.medium.com/v2/resize:fit:800/1*bthRXJ_FBspSEijOWIRM2A.png",
+      "id": 2,
+      "userId": 1
+    },
+    {
+      "title": "Novedades de Laravel",
+      "subtitle": "PHP",
+      "body": "Nueva version de Laravel 11",
+      "date": "2024-01-03",
+      "image": "https://kinsta.com/wp-content/uploads/2023/02/Untitled-21.png",
+      "id": 3,
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Que chulo este Post!",
+      "author": {
+        "name": "Pablo Perez",
+        "date": "2024-01-03"
+      },
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Que wey este Post!",
+      "author": {
+        "name": "Pepe Gomez",
+        "date": "2024-01-03"
+      },
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "Que way este Post",
+      "author": {
+        "name": "Pepe Gomez",
+        "date": "2024-01-01"
+      },
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "first_name": "Jendrcik",
+      "last_name": "Montiel",
+      "email": "jendrick_programador@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "first_name": "Jimerson",
+      "last_name": "Montiel",
+      "phone": "123456789",
+      "email": "jnmpmontiel@gmail.com"
+    }
+  ]
+}
